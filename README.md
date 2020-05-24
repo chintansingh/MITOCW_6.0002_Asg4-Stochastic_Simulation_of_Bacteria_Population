@@ -5,4 +5,4 @@ Screenshots of output:
 (one without antibiotic case, two with antibiotic cases with different bacteria death rates)
 ![](Figure_1.png)
 ![](Figure_2.png)
-![(Figure_3.png)]
+![](Figure_3.png)
